@@ -1,0 +1,24 @@
+{
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "description": "QR-Code generator",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waleed2000x/QR-Code-Generator.git"
+  },
+  "author": "Waleed Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waleed2000x/QR-Code-Generator/issues"
+  },
+  "homepage": "https://github.com/waleed2000x/QR-Code-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "qr-image": "^3.2.0"
+  }
+}
