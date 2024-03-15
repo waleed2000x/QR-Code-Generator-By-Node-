@@ -1,4 +1,4 @@
-QR-Code-Generator
+# QR-Code-Generator
 Overview
 
 QR-Code-Generator is a Node.js backend application designed to swiftly generate QR codes for provided links. It leverages the powerful qr-code library for efficient QR code generation and the intuitive inquirer library for seamless user interaction. For streamlined routing, it integrates the widely-used express framework.
