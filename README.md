@@ -48,4 +48,4 @@ bash
 $ node app.js
 ? Enter the link to generate QR code: [Your link here]
 
-Contributing
+
