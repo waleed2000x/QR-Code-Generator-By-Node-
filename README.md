@@ -22,28 +22,28 @@ git clone https://github.com/waleed2000x/QR-Code-Generator/tree/main
 
 Install dependencies:
 
-bash
+```bash
 
 npm install
-
+```
 Run the application:
 
-bash
+```bash
 
     node app.js
+```
+Follow the prompts:
+Upon running the application, you'll be prompted to input the link you wish to convert into a QR code.
+Simply enter the desired link and proceed.
 
-    Follow the prompts:
-        Upon running the application, you'll be prompted to input the link you wish to convert into a QR code.
-        Simply enter the desired link and proceed.
-
-    View the generated QR code:
-        The generated QR code will be promptly displayed within your terminal.
+View the generated QR code:
+The generated QR code will be promptly displayed within your terminal.
 
 Example
 
-bash
+```bash
 
 $ node app.js
 ? Enter the link to generate QR code: [Your link here]
-
+```
 
