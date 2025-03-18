@@ -10,15 +10,13 @@ bash
 
 npm install qr-code inquirer express
 
-    npm install qr-code
-    npm install inquirer
-    npm install express
+    npm install qr-code inquirer express
 
 Usage
 
     Clone the repository:
 
-    git clone https://github.com/waleed2000x/QR-Code-Generator/tree/main
+    git clone https://github.com/waleed2000x/QR-Code-GeneratorBy-Node-main
 
 git clone https://github.com/waleed2000x/QR-Code-Generator/tree/main
 
